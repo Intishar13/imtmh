@@ -1,0 +1,63 @@
+/*Selector {
+	Property: value;
+}*/
+
+* {
+	text-align: left;
+}
+	color: orange;
+	text-align: center;
+p {
+
+	border: 5px solid rgba(255, 176, 170, 0.5);
+	cursor: pointer;
+}
+
+p {
+	text-decoration: ;
+	text-decoration: ;
+	text-transform:;
+	line-height: 20px;
+	font-style: ;
+	font-weight: ;
+	font-size: 20px;
+	font-family: 'Arimo', sans-serif;
+}
+
+
+img {
+	float: right;
+}
+
+.text:first-child {
+	border: 5px dashed yellow;
+}
+
+.active {
+	 color:red;
+}
+
+
+p {
+	color: purple;
+
+}
+
+#div1 {
+	background: rgba(0, 0, 255, 0.2);
+}
+
+#div2 {
+	background: rgba(255, 0, 0, 0.2);
+}
+
+.boxmodel {
+	border : 5px solid purple;
+	display: inline-block;
+	padding: 5px 30px;
+	margin: 0px 30px;
+}
+
+span {
+	font-size: 2rem;
+}
